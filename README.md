@@ -1,1 +1,1 @@
-This is a holding space for projects I complete for school, certificates, or in my free time.
+This is a holding space for projects I complete to earn certificates on Coursera.
